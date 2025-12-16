@@ -76,7 +76,7 @@ print("Accuracy:", accuracy
 <img width="643" height="458" alt="Screenshot 2025-12-16 110423" src="https://github.com/user-attachments/assets/e30c1bfc-87ef-4767-97e7-945090c0fa4b" />
 
 <img width="515" height="75" alt="Screenshot 2025-12-16 110435" src="https://github.com/user-attachments/assets/032c26aa-4a06-4af8-a54e-f36548b2795f" />
-<img width="471" height="471" alt="Screenshot 2025-12-16 110428" src="https://github.com/user-attachments/assets/64e16554-33d9-40a5-b615-7668441e0fd4" />
+
 
 
 
