@@ -77,8 +77,14 @@ print("Accuracy:", accuracy
 
 <img width="515" height="75" alt="Screenshot 2025-12-16 110435" src="https://github.com/user-attachments/assets/032c26aa-4a06-4af8-a54e-f36548b2795f" />
 
+<img width="471" height="471" alt="Screenshot 2025-12-16 110428" src="https://github.com/user-attachments/assets/82a4ce8b-c861-4052-896c-2a2276f8cf0c" />
 
 
+<img width="908" height="184" alt="Screenshot 2025-12-16 110439" src="https://github.com/user-attachments/assets/047eea8b-2f9c-47cc-9752-77a012d7c823" />
+
+<img width="916" height="182" alt="Screenshot 2025-12-16 110445" src="https://github.com/user-attachments/assets/50d78c7b-0646-440b-8809-c98d1a9f0901" />
+
+<img width="422" height="152" alt="Screenshot 2025-12-16 110451" src="https://github.com/user-attachments/assets/8437ca0d-bcc6-4d41-9a34-0471089d9c48" />
 
 
 ## Result:
